@@ -18,7 +18,7 @@ Hello! I am a student at Gachon University, double majoring in Physics and Softw
 
 ## Contact
 
-- **GitHub**: [Insert your GitHub username here]
-- **Email**: [Insert your email address here]
+- **GitHub**: songyb111-gachon
+- **Email**: songyb111@gachon
 
 Thank you!
