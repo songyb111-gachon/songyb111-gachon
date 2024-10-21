@@ -21,6 +21,7 @@ Hello! I am a passionate software developer and double major in **Physics** and 
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Oracle VM VirtualBox](https://img.shields.io/badge/-Oracle%20VM%20VirtualBox-183A61?logo=virtualbox&logoColor=white)
 
 ---
 
@@ -71,6 +72,7 @@ Thank you for visiting my profile! I look forward to connecting and collaboratin
 - ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Oracle VM VirtualBox](https://img.shields.io/badge/-Oracle%20VM%20VirtualBox-183A61?logo=virtualbox&logoColor=white)
 
 ---
 
