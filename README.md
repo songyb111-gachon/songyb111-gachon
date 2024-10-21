@@ -20,6 +20,7 @@ Hello! I am a passionate software developer and double major in **Physics** and 
 - ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white) ![CLion](https://img.shields.io/badge/-CLion-000000?logo=clion&logoColor=white) ![RustRover](https://img.shields.io/badge/-RustRover-000000?logo=rust&logoColor=white)
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
 
 ---
 
@@ -69,13 +70,14 @@ Thank you for visiting my profile! I look forward to connecting and collaboratin
 - ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white), ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
 - ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
 
 ---
 
 ### 🏆 **수상 내역**
 
 - **SW 경진대회 최우수상**: 2위 - 안드로이드 앱 개발 프로젝트
-- **P-실무 프로젝트 촤우수상**: 1위 - 금 나노 입자와 카본 양자점에 의한 빛 속도 변화 측정
+- **P-실무 프로젝트 최우수상**: 1위 - 금 나노 입자와 카본 양자점에 의한 빛 속도 변화 측정
 
 ---
 
